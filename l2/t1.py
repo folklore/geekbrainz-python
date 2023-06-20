@@ -1,3 +1,5 @@
+from datetime import datetime
+
 class TellerMachine():
     AMOUNT_FILE = 'amount.txt'
     EXIT_PIN_CODE = 0
@@ -15,6 +17,7 @@ class TellerMachine():
 
     def __init__(self):
         self.amount = self.__select_amount()
+        self.__looger = self.__Logger()
 
 
     def withdrawal(self, card, value):
@@ -33,9 +36,7 @@ class TellerMachine():
 
             # При превышении суммы в 5 млн, вычитать налог на богатство 10% перед каждой операцией
             if value > self.REACH_EDGE_VALUE:
-                print(total_value)
                 total_value += (total_value * self.REACH_EDGE_PERCENT / 100)
-                print(total_value)
 
             # Нельзя снять больше, чем на счёте
             if self.amount >= total_value and card.balance >= total_value:
@@ -43,12 +44,16 @@ class TellerMachine():
                 self.__update_amount()
 
                 card.withdrawal(total_value)
+                self.__looger.write(f'Withdrawal    | Summa {total_value}')
                 return 'ok'
             elif card.balance < value:
+                self.__looger.write(f'Withdrawal    | Not enough minerals)) on the card')
                 return 'card deny'
-            elif self.amount < value: 
+            elif self.amount < value:
+                self.__looger.write(f'Withdrawal    | Not enough minerals)) in the ATM')
                 return 'atm deny'
         else:
+            self.__looger.write(f'Withdrawal    | Multiplicity deny')
             return 'multiplicity deny'
 
 
@@ -59,8 +64,10 @@ class TellerMachine():
             self.__update_amount()
 
             card.replenishment(value)
+            self.__looger.write(f'Replenishment | Summa {value}')
             return 'ok'
         else:
+            self.__looger.write(f'Replenishment | Multiplicity deny')
             return 'multiplicity deny'
 
 
@@ -213,6 +220,16 @@ class TellerMachine():
                 print('# Сумму пополнения   #')
                 print('#   не кратна 50     #')
             print('#                    #')
+
+
+    class __Logger():
+        LOG_FILE = 'log.txt'
+
+
+        def write(self, text):
+            with open(self.LOG_FILE, 'a') as file:
+                line = f'{datetime.now()} | {text}\n'
+                file.write(line)
 
 
 class Card():
