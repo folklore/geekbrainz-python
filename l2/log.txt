@@ -1,0 +1,4 @@
+2023-06-20 22:58:15.788888 | Withdrawal    | Summa 80
+2023-06-20 22:58:24.068538 | Replenishment | Summa 50
+2023-06-20 23:00:41.998988 | Withdrawal    | Multiplicity deny
+2023-06-20 23:01:37.016809 | Withdrawal    | Not enough minerals)) on the card
