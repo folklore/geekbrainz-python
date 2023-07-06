@@ -1,0 +1,1424 @@
+[
+  {
+    "name": "t4.py",
+    "type": "file",
+    "size": 853,
+    "pare": "../l3"
+  },
+  {
+    "name": "t1.py",
+    "type": "file",
+    "size": 2713,
+    "pare": "../l3"
+  },
+  {
+    "name": "algorithm.txt",
+    "type": "file",
+    "size": 7081,
+    "pare": "../l3"
+  },
+  {
+    "name": "things_map.txt",
+    "type": "file",
+    "size": 177,
+    "pare": "../l3"
+  },
+  {
+    "name": "t2.py",
+    "type": "file",
+    "size": 342,
+    "pare": "../l3"
+  },
+  {
+    "name": "t3.py",
+    "type": "file",
+    "size": 865,
+    "pare": "../l3"
+  },
+  {
+    "name": "/l3",
+    "type": "folder",
+    "size": 12031,
+    "pare": ".."
+  },
+  {
+    "name": "t1.py",
+    "type": "file",
+    "size": 541,
+    "pare": "../l4"
+  },
+  {
+    "name": "t2.py",
+    "type": "file",
+    "size": 311,
+    "pare": "../l4"
+  },
+  {
+    "name": "/l4",
+    "type": "folder",
+    "size": 852,
+    "pare": ".."
+  },
+  {
+    "name": "t1.py",
+    "type": "file",
+    "size": 435,
+    "pare": "../l5"
+  },
+  {
+    "name": "t2.py",
+    "type": "file",
+    "size": 560,
+    "pare": "../l5"
+  },
+  {
+    "name": "t3.py",
+    "type": "file",
+    "size": 380,
+    "pare": "../l5"
+  },
+  {
+    "name": "/l5",
+    "type": "folder",
+    "size": 1375,
+    "pare": ".."
+  },
+  {
+    "name": "t1.py",
+    "type": "file",
+    "size": 7818,
+    "pare": "../l2"
+  },
+  {
+    "name": "t2.py",
+    "type": "file",
+    "size": 124,
+    "pare": "../l2"
+  },
+  {
+    "name": "balance.txt",
+    "type": "file",
+    "size": 4,
+    "pare": "../l2"
+  },
+  {
+    "name": "amount.txt",
+    "type": "file",
+    "size": 6,
+    "pare": "../l2"
+  },
+  {
+    "name": "t3.py",
+    "type": "file",
+    "size": 672,
+    "pare": "../l2"
+  },
+  {
+    "name": "/l2",
+    "type": "folder",
+    "size": 8624,
+    "pare": ".."
+  },
+  {
+    "name": "t1.py",
+    "type": "file",
+    "size": 4345,
+    "pare": "../l7"
+  },
+  {
+    "name": ".touch",
+    "type": "file",
+    "size": 0,
+    "pare": "../l7/t2_cwd"
+  },
+  {
+    "name": "/t2_cwd",
+    "type": "folder",
+    "size": 0,
+    "pare": "../l7"
+  },
+  {
+    "name": ".touch",
+    "type": "file",
+    "size": 0,
+    "pare": "../l7/t1_cwd"
+  },
+  {
+    "name": "/t1_cwd",
+    "type": "folder",
+    "size": 0,
+    "pare": "../l7"
+  },
+  {
+    "name": "__init__.py",
+    "type": "file",
+    "size": 180,
+    "pare": "../l7"
+  },
+  {
+    "name": "t2.py",
+    "type": "file",
+    "size": 2972,
+    "pare": "../l7"
+  },
+  {
+    "name": "/l7",
+    "type": "folder",
+    "size": 7497,
+    "pare": ".."
+  },
+  {
+    "name": "recury.pickle",
+    "type": "file",
+    "size": 0,
+    "pare": "../l8"
+  },
+  {
+    "name": "recury.csv",
+    "type": "file",
+    "size": 10352,
+    "pare": "../l8"
+  },
+  {
+    "name": "recury.json",
+    "type": "file",
+    "size": 25673,
+    "pare": "../l8"
+  },
+  {
+    "name": "l1.py",
+    "type": "file",
+    "size": 1002,
+    "pare": "../l8"
+  },
+  {
+    "name": "/l8",
+    "type": "folder",
+    "size": 37027,
+    "pare": ".."
+  },
+  {
+    "name": "config",
+    "type": "file",
+    "size": 315,
+    "pare": "../.git"
+  },
+  {
+    "name": "ed21cd4a56b8b8ecea64e2e1c0183eef62abbe",
+    "type": "file",
+    "size": 120,
+    "pare": "../.git/objects/59"
+  },
+  {
+    "name": "/59",
+    "type": "folder",
+    "size": 120,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "e0fd03ad87ca04db6fc92681a89ff381aec74e",
+    "type": "file",
+    "size": 145,
+    "pare": "../.git/objects/6a"
+  },
+  {
+    "name": "/6a",
+    "type": "folder",
+    "size": 145,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "0309ef01abe9a268f86ff51a1b45b52d88d249",
+    "type": "file",
+    "size": 44,
+    "pare": "../.git/objects/32"
+  },
+  {
+    "name": "/32",
+    "type": "folder",
+    "size": 44,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "96cd8be5d3bfca0ef51e0cc92b8eafba8f5a76",
+    "type": "file",
+    "size": 102,
+    "pare": "../.git/objects/69"
+  },
+  {
+    "name": "8fac69731a2e85664e1f17afa0ba823728224b",
+    "type": "file",
+    "size": 289,
+    "pare": "../.git/objects/69"
+  },
+  {
+    "name": "/69",
+    "type": "folder",
+    "size": 391,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "4b666c744667046d75a9561e3e4ca085fc9546",
+    "type": "file",
+    "size": 423,
+    "pare": "../.git/objects/58"
+  },
+  {
+    "name": "/58",
+    "type": "folder",
+    "size": 423,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "f85f5f2080d29b0be274b03a8afd17f749df2c",
+    "type": "file",
+    "size": 124,
+    "pare": "../.git/objects/0b"
+  },
+  {
+    "name": "/0b",
+    "type": "folder",
+    "size": 124,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "f74a328f15e12bda24c4a7c85dae88752117ea",
+    "type": "file",
+    "size": 151,
+    "pare": "../.git/objects/94"
+  },
+  {
+    "name": "/94",
+    "type": "folder",
+    "size": 151,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "048fa3e4cac0caa57b7c2d9cc54c86eb55db17",
+    "type": "file",
+    "size": 157,
+    "pare": "../.git/objects/60"
+  },
+  {
+    "name": "/60",
+    "type": "folder",
+    "size": 157,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "9186d7d6c36a77969dd93a98dc5736fb0bfeb1",
+    "type": "file",
+    "size": 1268,
+    "pare": "../.git/objects/33"
+  },
+  {
+    "name": "/33",
+    "type": "folder",
+    "size": 1268,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "fb8d1886051206a2916a38edbdfdd38f282559",
+    "type": "file",
+    "size": 1266,
+    "pare": "../.git/objects/02"
+  },
+  {
+    "name": "853ea1dc49eaabd587a7bc66feca0109f644cb",
+    "type": "file",
+    "size": 311,
+    "pare": "../.git/objects/02"
+  },
+  {
+    "name": "/02",
+    "type": "folder",
+    "size": 1577,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "b078df9321b7eb5f3086d90e7b8b69637b0542",
+    "type": "file",
+    "size": 200,
+    "pare": "../.git/objects/a3"
+  },
+  {
+    "name": "/a3",
+    "type": "folder",
+    "size": 200,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "d3b11538cc664ec384589c9451c002ba970e3f",
+    "type": "file",
+    "size": 198,
+    "pare": "../.git/objects/b5"
+  },
+  {
+    "name": "40b8db488aa45544382175a1f1011f2239bddc",
+    "type": "file",
+    "size": 197,
+    "pare": "../.git/objects/b5"
+  },
+  {
+    "name": "/b5",
+    "type": "folder",
+    "size": 395,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "cd29a5a51fb5af8d9e05a17845d1bdc620e346",
+    "type": "file",
+    "size": 2135,
+    "pare": "../.git/objects/be"
+  },
+  {
+    "name": "/be",
+    "type": "folder",
+    "size": 2135,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "9b5a2750b696b9b92a3f009ee8ce3827b3a09f",
+    "type": "file",
+    "size": 44,
+    "pare": "../.git/objects/b4"
+  },
+  {
+    "name": "/b4",
+    "type": "folder",
+    "size": 44,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "2e838c57b07af285544a71bc562e421ba9634d",
+    "type": "file",
+    "size": 294,
+    "pare": "../.git/objects/a2"
+  },
+  {
+    "name": "/a2",
+    "type": "folder",
+    "size": 294,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "9303d65a9dba4170fedfc27a07a035577c4fd7",
+    "type": "file",
+    "size": 290,
+    "pare": "../.git/objects/a5"
+  },
+  {
+    "name": "/a5",
+    "type": "folder",
+    "size": 290,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "7e39ec4e7a62a33a8be89a83cde33d9e35c069",
+    "type": "file",
+    "size": 411,
+    "pare": "../.git/objects/d1"
+  },
+  {
+    "name": "/d1",
+    "type": "folder",
+    "size": 411,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "e716f62ab12981dc85e53f1c47c5a232907c79",
+    "type": "file",
+    "size": 69,
+    "pare": "../.git/objects/bc"
+  },
+  {
+    "name": "/bc",
+    "type": "folder",
+    "size": 69,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "c756fa68430fcd348a7578d8882168fe61b82b",
+    "type": "file",
+    "size": 265,
+    "pare": "../.git/objects/d8"
+  },
+  {
+    "name": "/d8",
+    "type": "folder",
+    "size": 265,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "8c8e684930a8195fd9838fdd67b667fa466f24",
+    "type": "file",
+    "size": 152,
+    "pare": "../.git/objects/eb"
+  },
+  {
+    "name": "/eb",
+    "type": "folder",
+    "size": 152,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "88af218bcbb5c65e782187060a56305bd7c4ae",
+    "type": "file",
+    "size": 474,
+    "pare": "../.git/objects/c9"
+  },
+  {
+    "name": "/c9",
+    "type": "folder",
+    "size": 474,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "e225385d4eb8ac6b9014f18d38151f5a479dfb",
+    "type": "file",
+    "size": 1934,
+    "pare": "../.git/objects/fd"
+  },
+  {
+    "name": "/fd",
+    "type": "folder",
+    "size": 1934,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "8fb6e622b7596ce45a5db36c69c7a6f98075c6",
+    "type": "file",
+    "size": 51,
+    "pare": "../.git/objects/cf"
+  },
+  {
+    "name": "/cf",
+    "type": "folder",
+    "size": 51,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "c5ee0ce3405a50aeed5311e485b184fe6a0742",
+    "type": "file",
+    "size": 23,
+    "pare": "../.git/objects/ca"
+  },
+  {
+    "name": "/ca",
+    "type": "folder",
+    "size": 23,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "302193db52489eed3ae1697be70987cb341757",
+    "type": "file",
+    "size": 170,
+    "pare": "../.git/objects/c8"
+  },
+  {
+    "name": "/c8",
+    "type": "folder",
+    "size": 170,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "96ea33c959c2e080a4137b20b786600ede0bfd",
+    "type": "file",
+    "size": 200,
+    "pare": "../.git/objects/ed"
+  },
+  {
+    "name": "/ed",
+    "type": "folder",
+    "size": 200,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "e70f45f5ff35d1e42f089ef7558bff427410a8",
+    "type": "file",
+    "size": 521,
+    "pare": "../.git/objects/c1"
+  },
+  {
+    "name": "/c1",
+    "type": "folder",
+    "size": 521,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "b299f61d402c50f7fa60798536134751dfcddb",
+    "type": "file",
+    "size": 75,
+    "pare": "../.git/objects/c6"
+  },
+  {
+    "name": "/c6",
+    "type": "folder",
+    "size": 75,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "51066f8ebb05e753d548bbdb2d374d8c0428b1",
+    "type": "file",
+    "size": 978,
+    "pare": "../.git/objects/20"
+  },
+  {
+    "name": "/20",
+    "type": "folder",
+    "size": 978,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "6a85889351574a9bb7c2d90ae7feeece61b79e",
+    "type": "file",
+    "size": 149,
+    "pare": "../.git/objects/18"
+  },
+  {
+    "name": "/18",
+    "type": "folder",
+    "size": 149,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "/pack",
+    "type": "folder",
+    "size": 0,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "3107421adb8f04447ae183fc5a4839aac96fc5",
+    "type": "file",
+    "size": 126,
+    "pare": "../.git/objects/89"
+  },
+  {
+    "name": "/89",
+    "type": "folder",
+    "size": 126,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "719a8916361353bfec12fff3acd1a6d50ed72a",
+    "type": "file",
+    "size": 170,
+    "pare": "../.git/objects/87"
+  },
+  {
+    "name": "/87",
+    "type": "folder",
+    "size": 170,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "628077044febc581cb291bbb5405c62bb90c35",
+    "type": "file",
+    "size": 164,
+    "pare": "../.git/objects/28"
+  },
+  {
+    "name": "/28",
+    "type": "folder",
+    "size": 164,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "0189b7a8d05c71153e885cbf7045b6bf8fa2a6",
+    "type": "file",
+    "size": 157,
+    "pare": "../.git/objects/8f"
+  },
+  {
+    "name": "6da23a89cc8928b9df823c0ed6495ffe43cd1c",
+    "type": "file",
+    "size": 156,
+    "pare": "../.git/objects/8f"
+  },
+  {
+    "name": "/8f",
+    "type": "folder",
+    "size": 313,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "bb73464e177e33477ff959d79473dc87d790af",
+    "type": "file",
+    "size": 156,
+    "pare": "../.git/objects/10"
+  },
+  {
+    "name": "/10",
+    "type": "folder",
+    "size": 156,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "aec977124d1587625c7e78f3d69a4e68a57b10",
+    "type": "file",
+    "size": 169,
+    "pare": "../.git/objects/26"
+  },
+  {
+    "name": "8baf5da1f41df5a08cdf820146d8abe367a615",
+    "type": "file",
+    "size": 153,
+    "pare": "../.git/objects/26"
+  },
+  {
+    "name": "/26",
+    "type": "folder",
+    "size": 322,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "07262e33e0c91a2d82c6015ba423841471ae12",
+    "type": "file",
+    "size": 69,
+    "pare": "../.git/objects/4d"
+  },
+  {
+    "name": "/4d",
+    "type": "folder",
+    "size": 69,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "a3d0a96e68aca8fe6d090655893b11fe80a436",
+    "type": "file",
+    "size": 266,
+    "pare": "../.git/objects/81"
+  },
+  {
+    "name": "568370291e0d29931c59eab59b99add8e53bb9",
+    "type": "file",
+    "size": 294,
+    "pare": "../.git/objects/81"
+  },
+  {
+    "name": "/81",
+    "type": "folder",
+    "size": 560,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "f0c5feceb6d628c8a13116ecc934d827662eb3",
+    "type": "file",
+    "size": 69,
+    "pare": "../.git/objects/86"
+  },
+  {
+    "name": "/86",
+    "type": "folder",
+    "size": 69,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "7025bfcce3b5592251943f5fc20436e12f8102",
+    "type": "file",
+    "size": 154,
+    "pare": "../.git/objects/72"
+  },
+  {
+    "name": "/72",
+    "type": "folder",
+    "size": 154,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "996216eaf6581c6e485915127d2ee3843b11ba",
+    "type": "file",
+    "size": 230,
+    "pare": "../.git/objects/44"
+  },
+  {
+    "name": "700a1dbd099f7a3ed5cc25538cab119165e99c",
+    "type": "file",
+    "size": 120,
+    "pare": "../.git/objects/44"
+  },
+  {
+    "name": "/44",
+    "type": "folder",
+    "size": 350,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "1c6220203fceb81fb77e3b6e08b1d00a2674aa",
+    "type": "file",
+    "size": 169,
+    "pare": "../.git/objects/9f"
+  },
+  {
+    "name": "/9f",
+    "type": "folder",
+    "size": 169,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "0e309c6b440c8ea63775947b44ec4a13d705b0",
+    "type": "file",
+    "size": 94,
+    "pare": "../.git/objects/09"
+  },
+  {
+    "name": "/09",
+    "type": "folder",
+    "size": 94,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "8722bdc13e1491253bddb69b8f647d2d200a7d",
+    "type": "file",
+    "size": 251,
+    "pare": "../.git/objects/31"
+  },
+  {
+    "name": "/31",
+    "type": "folder",
+    "size": 251,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "/info",
+    "type": "folder",
+    "size": 0,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "34f628e9aaa1d4cfd31d3b536ec04ac65013ae",
+    "type": "file",
+    "size": 100,
+    "pare": "../.git/objects/01"
+  },
+  {
+    "name": "/01",
+    "type": "folder",
+    "size": 100,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "1fa82447d34fc6f9d1b5ef816e8167449d131b",
+    "type": "file",
+    "size": 146,
+    "pare": "../.git/objects/0f"
+  },
+  {
+    "name": "/0f",
+    "type": "folder",
+    "size": 146,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "e7f9843bafba5052e6cf8452162fdab4042858",
+    "type": "file",
+    "size": 2136,
+    "pare": "../.git/objects/64"
+  },
+  {
+    "name": "/64",
+    "type": "folder",
+    "size": 2136,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "0f4673f3ffdcb8eb8d16bf7118cebb253c0d4d",
+    "type": "file",
+    "size": 170,
+    "pare": "../.git/objects/90"
+  },
+  {
+    "name": "/90",
+    "type": "folder",
+    "size": 170,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "168262de489815dd1b48e038af93c46585386b",
+    "type": "file",
+    "size": 155,
+    "pare": "../.git/objects/d3"
+  },
+  {
+    "name": "/d3",
+    "type": "folder",
+    "size": 155,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "22eaf30421321c2135e6068192e9f3881052fc",
+    "type": "file",
+    "size": 94,
+    "pare": "../.git/objects/d4"
+  },
+  {
+    "name": "/d4",
+    "type": "folder",
+    "size": 94,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "58aff1412234bd2745f6ffe1cd9064f62ecef1",
+    "type": "file",
+    "size": 2345,
+    "pare": "../.git/objects/b1"
+  },
+  {
+    "name": "/b1",
+    "type": "folder",
+    "size": 2345,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "5c5ab0d082189ef0c1fcf5ed6bd8ec2c991144",
+    "type": "file",
+    "size": 2668,
+    "pare": "../.git/objects/dc"
+  },
+  {
+    "name": "/dc",
+    "type": "folder",
+    "size": 2668,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "3e138ec323966815c8d2f0dc57c01ee39e4d4e",
+    "type": "file",
+    "size": 21,
+    "pare": "../.git/objects/b6"
+  },
+  {
+    "name": "/b6",
+    "type": "folder",
+    "size": 21,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "d6e0a17b9f289d478bcfcb2986f71deff25f36",
+    "type": "file",
+    "size": 331,
+    "pare": "../.git/objects/a9"
+  },
+  {
+    "name": "/a9",
+    "type": "folder",
+    "size": 331,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "e58d454f38f38a30f4060403b64db28234bbe1",
+    "type": "file",
+    "size": 175,
+    "pare": "../.git/objects/de"
+  },
+  {
+    "name": "/de",
+    "type": "folder",
+    "size": 175,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "f880de7a47d37c1e6f4cbd0bb415f68f8170a3",
+    "type": "file",
+    "size": 155,
+    "pare": "../.git/objects/ea"
+  },
+  {
+    "name": "/ea",
+    "type": "folder",
+    "size": 155,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "877339a2912b879d92bfdbf1ed9681d49d3183",
+    "type": "file",
+    "size": 150,
+    "pare": "../.git/objects/cc"
+  },
+  {
+    "name": "/cc",
+    "type": "folder",
+    "size": 150,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "b75ae446f8a85de09ab31ea880007328c97550",
+    "type": "file",
+    "size": 19,
+    "pare": "../.git/objects/e6"
+  },
+  {
+    "name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "type": "file",
+    "size": 15,
+    "pare": "../.git/objects/e6"
+  },
+  {
+    "name": "/e6",
+    "type": "folder",
+    "size": 34,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "ec0e73e5c71c836a7ab1de3591d9bf8253d0a1",
+    "type": "file",
+    "size": 101,
+    "pare": "../.git/objects/e9"
+  },
+  {
+    "name": "/e9",
+    "type": "folder",
+    "size": 101,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "30039d341a1f47dcfe74c4191f3b847f9ff250",
+    "type": "file",
+    "size": 145,
+    "pare": "../.git/objects/e7"
+  },
+  {
+    "name": "/e7",
+    "type": "folder",
+    "size": 145,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "01c8f39912ca1db66b36b23777c26fd526df53",
+    "type": "file",
+    "size": 255,
+    "pare": "../.git/objects/2c"
+  },
+  {
+    "name": "/2c",
+    "type": "folder",
+    "size": 255,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "46f4a8f8a39eef9ecd0ac62029ab68c33794da",
+    "type": "file",
+    "size": 155,
+    "pare": "../.git/objects/83"
+  },
+  {
+    "name": "/83",
+    "type": "folder",
+    "size": 155,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "32b26e5c6a42a9a301adf450cc15773815c1df",
+    "type": "file",
+    "size": 175,
+    "pare": "../.git/objects/1b"
+  },
+  {
+    "name": "/1b",
+    "type": "folder",
+    "size": 175,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "cd6c8e4ce7b2e750cf088c75dd1ccf68588ce7",
+    "type": "file",
+    "size": 475,
+    "pare": "../.git/objects/77"
+  },
+  {
+    "name": "6fc368d68d88671e28f0b83b625ef0208a42c6",
+    "type": "file",
+    "size": 149,
+    "pare": "../.git/objects/77"
+  },
+  {
+    "name": "/77",
+    "type": "folder",
+    "size": 624,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "0cc2efcba7295b22d1ad0dd109baf28bda731a",
+    "type": "file",
+    "size": 281,
+    "pare": "../.git/objects/1e"
+  },
+  {
+    "name": "/1e",
+    "type": "folder",
+    "size": 281,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "97d01743071549a4cfdf25d3a9df54a20beb7e",
+    "type": "file",
+    "size": 413,
+    "pare": "../.git/objects/4a"
+  },
+  {
+    "name": "/4a",
+    "type": "folder",
+    "size": 413,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "5c0b112684cf70f53d1f9132b7b909367edca3",
+    "type": "file",
+    "size": 151,
+    "pare": "../.git/objects/24"
+  },
+  {
+    "name": "/24",
+    "type": "folder",
+    "size": 151,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "2b338958d8d1a23a215c4c16f07e5538cdddce",
+    "type": "file",
+    "size": 151,
+    "pare": "../.git/objects/8c"
+  },
+  {
+    "name": "/8c",
+    "type": "folder",
+    "size": 151,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "a987047d864f669261838ecde4025ea01a7f46",
+    "type": "file",
+    "size": 2135,
+    "pare": "../.git/objects/71"
+  },
+  {
+    "name": "/71",
+    "type": "folder",
+    "size": 2135,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "0e16f6baacb7cae850f0aed37ae917b7dcbc3d",
+    "type": "file",
+    "size": 19,
+    "pare": "../.git/objects/13"
+  },
+  {
+    "name": "/13",
+    "type": "folder",
+    "size": 19,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "602ef589b0f1c9fb2ad06dda3f77b830195bab",
+    "type": "file",
+    "size": 123,
+    "pare": "../.git/objects/7f"
+  },
+  {
+    "name": "/7f",
+    "type": "folder",
+    "size": 123,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "1ea4b6cc26ed4a8a3e47bac762c876dcb11906",
+    "type": "file",
+    "size": 145,
+    "pare": "../.git/objects/8e"
+  },
+  {
+    "name": "/8e",
+    "type": "folder",
+    "size": 145,
+    "pare": "../.git/objects"
+  },
+  {
+    "name": "/objects",
+    "type": "folder",
+    "size": 29750,
+    "pare": "../.git"
+  },
+  {
+    "name": "HEAD",
+    "type": "file",
+    "size": 21,
+    "pare": "../.git"
+  },
+  {
+    "name": "exclude",
+    "type": "file",
+    "size": 240,
+    "pare": "../.git/info"
+  },
+  {
+    "name": "/info",
+    "type": "folder",
+    "size": 240,
+    "pare": "../.git"
+  },
+  {
+    "name": "HEAD",
+    "type": "file",
+    "size": 2636,
+    "pare": "../.git/logs"
+  },
+  {
+    "name": "atm",
+    "type": "file",
+    "size": 323,
+    "pare": "../.git/logs/refs/heads"
+  },
+  {
+    "name": "main",
+    "type": "file",
+    "size": 1988,
+    "pare": "../.git/logs/refs/heads"
+  },
+  {
+    "name": "/heads",
+    "type": "folder",
+    "size": 2311,
+    "pare": "../.git/logs/refs"
+  },
+  {
+    "name": "atm",
+    "type": "file",
+    "size": 131,
+    "pare": "../.git/logs/refs/remotes/origin"
+  },
+  {
+    "name": "main",
+    "type": "file",
+    "size": 1572,
+    "pare": "../.git/logs/refs/remotes/origin"
+  },
+  {
+    "name": "/origin",
+    "type": "folder",
+    "size": 1703,
+    "pare": "../.git/logs/refs/remotes"
+  },
+  {
+    "name": "/remotes",
+    "type": "folder",
+    "size": 1703,
+    "pare": "../.git/logs/refs"
+  },
+  {
+    "name": "/refs",
+    "type": "folder",
+    "size": 4014,
+    "pare": "../.git/logs"
+  },
+  {
+    "name": "/logs",
+    "type": "folder",
+    "size": 6650,
+    "pare": "../.git"
+  },
+  {
+    "name": "description",
+    "type": "file",
+    "size": 73,
+    "pare": "../.git"
+  },
+  {
+    "name": "commit-msg.sample",
+    "type": "file",
+    "size": 896,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "pre-rebase.sample",
+    "type": "file",
+    "size": 4898,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "pre-commit.sample",
+    "type": "file",
+    "size": 1643,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "applypatch-msg.sample",
+    "type": "file",
+    "size": 478,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "fsmonitor-watchman.sample",
+    "type": "file",
+    "size": 4726,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "pre-receive.sample",
+    "type": "file",
+    "size": 544,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "prepare-commit-msg.sample",
+    "type": "file",
+    "size": 1492,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "post-update.sample",
+    "type": "file",
+    "size": 189,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "pre-merge-commit.sample",
+    "type": "file",
+    "size": 416,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "pre-applypatch.sample",
+    "type": "file",
+    "size": 424,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "pre-push.sample",
+    "type": "file",
+    "size": 1374,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "update.sample",
+    "type": "file",
+    "size": 3650,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "push-to-checkout.sample",
+    "type": "file",
+    "size": 2783,
+    "pare": "../.git/hooks"
+  },
+  {
+    "name": "/hooks",
+    "type": "folder",
+    "size": 23513,
+    "pare": "../.git"
+  },
+  {
+    "name": "atm",
+    "type": "file",
+    "size": 41,
+    "pare": "../.git/refs/heads"
+  },
+  {
+    "name": "main",
+    "type": "file",
+    "size": 41,
+    "pare": "../.git/refs/heads"
+  },
+  {
+    "name": "/heads",
+    "type": "folder",
+    "size": 82,
+    "pare": "../.git/refs"
+  },
+  {
+    "name": "/tags",
+    "type": "folder",
+    "size": 0,
+    "pare": "../.git/refs"
+  },
+  {
+    "name": "atm",
+    "type": "file",
+    "size": 41,
+    "pare": "../.git/refs/remotes/origin"
+  },
+  {
+    "name": "main",
+    "type": "file",
+    "size": 41,
+    "pare": "../.git/refs/remotes/origin"
+  },
+  {
+    "name": "/origin",
+    "type": "folder",
+    "size": 82,
+    "pare": "../.git/refs/remotes"
+  },
+  {
+    "name": "/remotes",
+    "type": "folder",
+    "size": 82,
+    "pare": "../.git/refs"
+  },
+  {
+    "name": "/refs",
+    "type": "folder",
+    "size": 164,
+    "pare": "../.git"
+  },
+  {
+    "name": "index",
+    "type": "file",
+    "size": 2270,
+    "pare": "../.git"
+  },
+  {
+    "name": "COMMIT_EDITMSG",
+    "type": "file",
+    "size": 11,
+    "pare": "../.git"
+  },
+  {
+    "name": "/.git",
+    "type": "folder",
+    "size": 63007,
+    "pare": ".."
+  },
+  {
+    "name": "t4.py",
+    "type": "file",
+    "size": 1744,
+    "pare": "../l1"
+  },
+  {
+    "name": "t1a.py",
+    "type": "file",
+    "size": 550,
+    "pare": "../l1"
+  },
+  {
+    "name": "t2.py",
+    "type": "file",
+    "size": 1920,
+    "pare": "../l1"
+  },
+  {
+    "name": "t1b.py",
+    "type": "file",
+    "size": 1315,
+    "pare": "../l1"
+  },
+  {
+    "name": "t3.py",
+    "type": "file",
+    "size": 627,
+    "pare": "../l1"
+  },
+  {
+    "name": "/l1",
+    "type": "folder",
+    "size": 6156,
+    "pare": ".."
+  },
+  {
+    "name": "..",
+    "type": "folder",
+    "size": 136569,
+    "pare": ""
+  }
+]
