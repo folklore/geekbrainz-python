@@ -21,7 +21,7 @@ class Archive():
         return f'{self.number = }, {self.text = }'
 
 
-    def __repr__ (self):
+    def __repr__(self):
         return f'Archive({self.number}, "{self.text}")'
 
 
@@ -33,6 +33,7 @@ print(repr(archive))
 
 print(Archive.STORAGE)
 print(archive.STORAGE)
+
 
 # self.number = 1, self.text = 'STR'
 # Хранит пару свойств. Например, число и строку.

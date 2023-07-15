@@ -15,7 +15,7 @@ class MyString(str):
         return super().__new__(cls, value) 
 
 
-    def __repr__ (self):
+    def __repr__(self):
         return f'MyString("{self}", "{self.author}")'
 
 
@@ -27,6 +27,7 @@ print(string.created_at)
 
 print(MyString.__doc__)
 print(repr(string))
+
 
 # asdqwezxc
 # Stas
